@@ -1,0 +1,11 @@
+{
+    "name": "isaacAPIDefinitions",
+    "url": "https://github.com/KyojoH/IsaacHaxeDefs",
+    "license": "GPL",
+    "tags": [],
+    "description": "Type definitions and helper functions for modding The Binding of Isaac Repentance",
+    "version": "0.0.1",
+    "classPath": "src",
+    "releasenote": "",
+    "contributors": ["Kyojo"]
+}
