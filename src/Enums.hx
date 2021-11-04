@@ -416,7 +416,7 @@ var ModCallbacks= {
     ENTITY_ENVIRONMENT: 970,
     ENTITY_EFFECT: 1000,
     ENTITY_TEXT: 9001,
-  };  
+  };    
   var GridEntityType= {
     GRID_NULL: 0,
     GRID_DECORATION: 1,
